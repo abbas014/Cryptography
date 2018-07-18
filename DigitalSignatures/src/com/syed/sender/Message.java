@@ -1,4 +1,4 @@
-package com.mkyong.sender;
+package com.syed.sender;
 
 import java.io.File;
 import java.io.FileNotFoundException;

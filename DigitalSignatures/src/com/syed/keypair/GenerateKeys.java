@@ -1,4 +1,4 @@
-package com.mkyong.keypair;
+package com.syed.keypair;
 
 import java.io.File;
 import java.io.FileOutputStream;

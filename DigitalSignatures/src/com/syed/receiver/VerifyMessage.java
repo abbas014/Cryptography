@@ -1,4 +1,4 @@
-package com.mkyong.receiver;
+package com.syed.receiver;
 
 import java.io.File;
 import java.io.FileInputStream;
